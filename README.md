@@ -4,7 +4,7 @@ This is a Next.js template for the Dataflow Platform. It provides a simple, prod
 
 ## Structure
 
-- `app/` - Next.js 14 App Router pages and API routes
+- `app/` - Next.js 14 Appp Router pages and API routes
 - `components/` - React components
 - `lib/` - Utility functions and shared code
 - `hooks/` - Custom React hooks
